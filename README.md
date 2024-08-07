@@ -1,0 +1,1 @@
+Using Node.js, this project introduces OAuth into our web applicaton through GitHub. The included CSS and HTML set up the basics of the web application, while the app.js and package.json files introduce all of the OAuth code, including storing the Client ID and Secret, as well as using passport.js for authentication.
